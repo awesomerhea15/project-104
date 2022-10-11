@@ -1,0 +1,17 @@
+body{
+    background-color:aliceblue;
+    color:indigo;
+}
+.heading{
+    width:80%;
+    font-size:22px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:thistle;
+
+}
+#camera{
+    border:2px dashed pink;
+    width: 350px;
+    height: 300px;
+}
